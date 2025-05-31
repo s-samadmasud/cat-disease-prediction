@@ -1,0 +1,36 @@
+,Disease,Symptom_1,Symptom_2,Symptom_3,Symptom_4
+0,kidney disease,a_dry_coat,bloody_or_cloudy_urine,diarrhea,frequent_urination
+1,kidney disease,a_dry_coat,bloody_or_cloudy_urine,diarrhea,increased_thirst
+2,kidney disease,a_dry_coat,bloody_or_cloudy_urine,diarrhea,vomiting
+3,kidney disease,a_dry_coat,bloody_or_cloudy_urine,diarrhea,weight_loss
+4,kidney disease,a_dry_coat,bloody_or_cloudy_urine,frequent_urination,diarrhea
+5,diabetes,change_in_appetite,dehydration,increased_thirst_and/or_urination,lethargy
+6,diabetes,change_in_appetite,dehydration,increased_thirst_and/or_urination,sweet_smelling_breath
+7,diabetes,change_in_appetite,dehydration,increased_thirst_and/or_urination,weight_loss
+8,diabetes,change_in_appetite,dehydration,lethargy,increased_thirst_and/or_urination
+9,diabetes,change_in_appetite,dehydration,lethargy,sweet_smelling_breath
+10,feline immunodeficiency virus (fiv),chronic_or_recurring_infections,fever,gingivitis,loss_of_appetite
+11,feline immunodeficiency virus (fiv),chronic_or_recurring_infections,fever,gingivitis,poor_coat_condition
+12,feline immunodeficiency virus (fiv),chronic_or_recurring_infections,fever,loss_of_appetite,gingivitis
+13,feline immunodeficiency virus (fiv),chronic_or_recurring_infections,fever,loss_of_appetite,poor_coat_condition
+14,feline immunodeficiency virus (fiv),chronic_or_recurring_infections,fever,poor_coat_condition,gingivitis
+15,feline leukemia virus (felv),loss_of_appetite,persistent_diarrhea,persistent_fever,seizures_or_neurological_disorders
+16,feline leukemia virus (felv),loss_of_appetite,persistent_diarrhea,persistent_fever,urinary_or_respiratory_infections
+17,feline leukemia virus (felv),loss_of_appetite,persistent_diarrhea,persistent_fever,various_eye_conditions
+18,feline leukemia virus (felv),loss_of_appetite,persistent_diarrhea,persistent_fever,weight_loss
+19,feline leukemia virus (felv),loss_of_appetite,persistent_diarrhea,seizures_or_neurological_disorders,persistent_fever
+20,cancer,anorexia,diarrhea,vomiting,weight_loss
+21,cancer,anorexia,diarrhea,weight_loss,vomiting
+22,cancer,anorexia,vomiting,diarrhea,weight_loss
+23,cancer,anorexia,vomiting,weight_loss,diarrhea
+24,cancer,anorexia,weight_loss,diarrhea,vomiting
+25,pancreatitis,abdominal_pain,decreased_appetite,diarrhea,fever
+26,pancreatitis,abdominal_pain,decreased_appetite,diarrhea,vomiting
+27,pancreatitis,abdominal_pain,decreased_appetite,fever,diarrhea
+28,pancreatitis,abdominal_pain,decreased_appetite,fever,vomiting
+29,pancreatitis,abdominal_pain,decreased_appetite,vomiting,diarrhea
+30,hyperthyroidism,excessive_amounts_of_energy,increased_appetite,restlessness,weight_loss
+31,hyperthyroidism,excessive_amounts_of_energy,increased_appetite,weight_loss,restlessness
+32,hyperthyroidism,excessive_amounts_of_energy,restlessness,increased_appetite,weight_loss
+33,hyperthyroidism,excessive_amounts_of_energy,restlessness,weight_loss,increased_appetite
+34,hyperthyroidism,excessive_amounts_of_energy,weight_loss,increased_appetite,restlessness

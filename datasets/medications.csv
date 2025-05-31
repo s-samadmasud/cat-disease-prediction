@@ -1,0 +1,9 @@
+Disease,Medication
+Kidney Disease,"['Enalapril', 'Phosphate binders', 'Prescription renal diet']"
+Diabetes,"['Insulin', 'Prescription diabetic diets','Insulin']"
+Feline Immunodeficiency Virus (FIV),"['Supportive care', 'Antiviral medications', 'Immune boosters']"
+Feline Leukemia Virus (FeLV),"['Interferon', 'Supportive care', 'Antiviral therapy']"
+Cancer,"['Chemotherapy', 'Pain management', 'Surgery if operable']"
+Pancreatitis,"['Supportive care', 'Antiemetics', 'Pain relief']"
+Hyperthyroidism,"['Methimazole', 'Radioactive iodine therapy', 'Surgery']"
+
